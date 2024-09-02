@@ -1,16 +1,21 @@
-## Hi there 👋
+💫 About Me:
+Jithin - Python Django Developer
 
-<!--
-**jithin-jz/jithin-jz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Python Enthusiast | Django Full-Stack Developer
+- 🚀 Building scalable web applications with Django and Python
+- 🎨 Passionate about clean code and intuitive UI/UX
+- 🌱 Always learning new technologies
+- 💼 Available for freelance projects
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+- Languages: Python, HTML, CSS, JavaScript
+- Framework: Django
+- Databases: PostgreSQL, MySQL, SQLite
+- Tools: Git, GitHub, Figma, Vs Code, Project IDX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+- Instagram: jithin.jz
+- LinkedIn: Jithin Lal
+
+✍️ Dev Quote
+print("Real programmers count from 0.")
