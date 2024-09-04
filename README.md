@@ -15,7 +15,7 @@ Jithin - Python Django Developer
 
 🌐 Socials:
 - Instagram: jithin.jz
-- LinkedIn: Jithin Lal
+- LinkedIn: Jithin R
 
 ✍️ Dev Quote
 print("Real programmers count from 0.")
