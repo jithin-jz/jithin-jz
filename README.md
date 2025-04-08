@@ -94,12 +94,10 @@ me.say_hi()
   <h3>🏆 Certifications</h3>
   <table>
     <tr>
-      <td><img src="https://img.icons8.com/color/48/null/amazon-web-services.png" width="20" height="20"> AWS Certified Developer Associate</td>
-      <td><img src="https://img.icons8.com/color/48/null/django.png" width="20" height="20"> Django for Professionals (2023)</td>
+      <td><img src="https://img.icons8.com/color/48/null/react-native.png" width="20" height="20"> React Advanced Patterns (2024)</td>
+      <td><img src="https://img.icons8.com/color/48/null/django.png" width="20" height="20"> Django for Professionals (2024)</td>
     </tr>
     <tr>
-      <td><img src="https://img.icons8.com/color/48/null/react-native.png" width="20" height="20"> React Advanced Patterns (2022)</td>
-      <td><img src="https://img.icons8.com/color/48/null/docker.png" width="20" height="20"> Docker and Kubernetes Fundamentals (2022)</td>
     </tr>
   </table>
 </div>
