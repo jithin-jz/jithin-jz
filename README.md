@@ -36,7 +36,6 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Full Stack Developer with expertise in **Python** and modern web technologies
-- 🌱 Currently working on **Banking App with Django & PostgreSQL**
 - 💬 Ask me about **Django, React, Python, Web Development**
 - 🚀 Passionate about clean code, performance optimization, and intuitive UX
 - ✨ Always eager to learn new technologies
