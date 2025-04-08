@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Jithinlal%20K%20R&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Python%20Developer&descAlignY=58&descAlign=50)
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Jithin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Python%20Developer&descAlignY=58&descAlign=50)
 
 </div>
 
@@ -49,7 +49,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Jithinlal K R"
+        self.name = "Jithin"
         self.role = "Full Stack Developer"
         self.skills = {
             "backend": ["Python", "Django", "Django REST", "Node.js"],
