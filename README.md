@@ -26,7 +26,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Jithinlal K R"
+        self.name = "Jithin"
         self.role = "Full Stack Developer"
         self.skills = {
             "backend": ["Python", "Django", "Django REST", "Node.js"],
