@@ -1,8 +1,10 @@
 <div align="center">
-  
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Jithin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Python%20Developer&descAlignY=58&descAlign=50)
+
+  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=280&section=header&text=JITHIN&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20PYTHON%20DEVELOPER&descAlign=50&descAlignY=60&descSize=22)
 
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Python+Developer;Django+Enthusiast;React+Developer;Full+Stack+Engineer;Welcome+to+my+profile!" alt="Typing SVG" />
