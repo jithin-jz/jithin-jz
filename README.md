@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:6E48AA&height=300&section=header&text=JITHIN&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22"/>
 </div>
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=750&color=FF5F6D&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Crafting+Digital+Experiences;Where+Innovation+Meets+Functionality" alt="Typing SVG" /></a>
-</div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:jithinjzx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
