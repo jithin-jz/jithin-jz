@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=JITHIN%20K%20R&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=JITHIN&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22"/>
 </div>
 
 <div align="center">
@@ -140,147 +140,32 @@
 
 <br>
 
-## <div align="center">💎 Code Philosophy</div>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="background: linear-gradient(135deg, rgba(32,189,255,0.05) 0%, rgba(165,254,203,0.05) 100%); border-radius: 16px; padding: 20px; margin: 20px 0; border: 1px solid rgba(32,189,255,0.1);">
-  <p align="center"><em>Clean architecture approach to Django applications</em></p>
-
-```python
-# Domain-driven design pattern for an e-commerce application
-from dataclasses import dataclass
-from typing import List, Optional
-from decimal import Decimal
-from datetime import datetime
-from enum import Enum
-
-# Domain models - Pure Python without framework dependencies
-class OrderStatus(Enum):
-    PENDING = "pending"
-    PROCESSING = "processing"
-    SHIPPED = "shipped"
-    DELIVERED = "delivered"
-    CANCELLED = "cancelled"
-
-@dataclass
-class Product:
-    id: str
-    name: str
-    description: str
-    price: Decimal
-    inventory_count: int
-    
-    def is_available(self) -> bool:
-        return self.inventory_count > 0
-    
-    def reserve_inventory(self, quantity: int) -> bool:
-        if self.inventory_count >= quantity:
-            self.inventory_count -= quantity
-            return True
-        return False
-
-@dataclass
-class OrderItem:
-    product_id: str
-    product_name: str
-    quantity: int
-    unit_price: Decimal
-    
-    @property
-    def subtotal(self) -> Decimal:
-        return self.unit_price * self.quantity
-
-@dataclass
-class Order:
-    id: Optional[str]
-    customer_id: str
-    items: List[OrderItem]
-    status: OrderStatus
-    created_at: datetime
-    updated_at: datetime
-    
-    @property
-    def total_amount(self) -> Decimal:
-        return sum(item.subtotal for item in self.items)
-    
-    def can_cancel(self) -> bool:
-        return self.status in [OrderStatus.PENDING, OrderStatus.PROCESSING]
-    
-    def cancel(self) -> bool:
-        if not self.can_cancel():
-            return False
-        self.status = OrderStatus.CANCELLED
-        self.updated_at = datetime.now()
-        return True
-    
-    def process(self) -> None:
-        if self.status == OrderStatus.PENDING:
-            self.status = OrderStatus.PROCESSING
-            self.updated_at = datetime.now()
-    
-    def ship(self) -> None:
-        if self.status == OrderStatus.PROCESSING:
-            self.status = OrderStatus.SHIPPED
-            self.updated_at = datetime.now()
-    
-    def deliver(self) -> None:
-        if self.status == OrderStatus.SHIPPED:
-            self.status = OrderStatus.DELIVERED
-            self.updated_at = datetime.now()
-
-# Application service layer
-class OrderService:
-    def __init__(self, order_repository, product_repository, notification_service):
-        self.order_repository = order_repository
-        self.product_repository = product_repository
-        self.notification_service = notification_service
-    
-    def place_order(self, customer_id: str, items: List[dict]) -> Optional[Order]:
-        order_items = []
-        
-        # Validate products and check inventory
-        for item in items:
-            product = self.product_repository.get_by_id(item["product_id"])
-            if not product or not product.is_available() or not product.reserve_inventory(item["quantity"]):
-                # Rollback any reserved inventory
-                return None
-                
-            order_item = OrderItem(
-                product_id=product.id,
-                product_name=product.name,
-                quantity=item["quantity"],
-                unit_price=product.price
-            )
-            order_items.append(order_item)
-        
-        # Create order
-        order = Order(
-            id=None,
-            customer_id=customer_id,
-            items=order_items,
-            status=OrderStatus.PENDING,
-            created_at=datetime.now(),
-            updated_at=datetime.now()
-        )
-        
-        # Save order
-        saved_order = self.order_repository.save(order)
-        
-        # Notify customer
-        self.notification_service.send_order_confirmation(saved_order)
-        
-        return saved_order
-```
-</div>
-
-<br>
-
-## <div align="center">📊 GitHub Analytics</div>
+## <div align="center">📊 GitHub Stats </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithin-kr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=5433FF&icon_color=20BDFF&text_color=A5FECB" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-kr&theme=tokyonight&hide_border=true&background=0D1117&ring=5433FF&fire=20BDFF&currStreakLabel=A5FECB" />
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-jz&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- GitHub Contribution Graph -->
+  <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithin-jz&theme=tokyonight" />
+  
+  <!-- GitHub Activity Graph -->
+  <img width="800em" src="https://activity-graph.herokuapp.com/graph?username=jithin-jz&theme=react-dark&hide_border=true" />
 </div>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <div align="center" style="padding: 30px 0; background: linear-gradient(135deg, rgba(84,51,255,0.05) 0%, rgba(32,189,255,0.05) 100%); border-radius: 16px; margin: 20px 0; border: 1px solid rgba(84,51,255,0.1);">
@@ -292,27 +177,15 @@ class OrderService:
 
 <br>
 
-## <div align="center">📫 Let's Connect</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="mailto:jithinjzx@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-jithinjzx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/jithin-kr/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-jithin--kr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://jithinr.vercel.app" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-jithinr.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</div>
-
 <div align="center" style="margin: 20px 0;">
   <h4>Open to collaboration on innovative projects | Available for consulting</h4>
 </div>
 
-<div align="center" style="background: linear-gradient(90deg, #5433FF 0%, #20BDFF 50%, #A5FECB 100%); padding: 10px; margin: 20px 0; border-radius: 10px;">
-  <h4 style="color: white; margin: 0;">Visitors</h4>
-  <img src="https://profile-counter.glitch.me/jithin-kr/count.svg" alt="Visitor Count" style="background: white; padding: 5px; border-radius: 5px; margin: 10px 0;">
+<!-- Profile Views Counter -->
+<div align="center">
+  <p style="margin-top: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+  </p>
 </div>
 
 <div align="center">
