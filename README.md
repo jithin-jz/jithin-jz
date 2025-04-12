@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FFC371,100:6E48AA&height=300&section=header&text=JITHIN&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC466B,100:3F5EFB&height=300&section=header&text=JITHIN&font=Monoton&fontSize=80&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Creative%20Coder%20|%20Full%20Stack%20Dev&descAlignY=70&descSize=18"/>
 </div>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
