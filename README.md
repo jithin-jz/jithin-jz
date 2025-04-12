@@ -127,7 +127,7 @@
   <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithin-jz&theme=tokyonight" />
   
   <!-- GitHub Activity Graph -->
-  <img width="800em" src="https://activity-graph.herokuapp.com/graph?username=jithin-jz&theme=react-dark&hide_border=true" />
+ 
 </div>
 
 <!-- Animated Divider -->
