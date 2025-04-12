@@ -1,4 +1,3 @@
-# <div align="center">✨ JITHIN K R ✨</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=JITHIN%20K%20R&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=PYTHON%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=22"/>
 </div>
