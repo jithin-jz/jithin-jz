@@ -106,40 +106,6 @@
 
 <br>
 
-## <div align="center">🚀 Featured Projects</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- PROJECT 1 -->
-  <div style="width: 45%; min-width: 300px; margin: 10px;">
-    <img src="https://cdn.dribbble.com/users/3178178/screenshots/14520664/media/6a52a5373551ed3d6a60cd5d770804e8.jpg" style="width: 100%; border-radius: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
-    <h3 align="center">Enterprise Banking Platform</h3>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A" alt="React">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres">
-    </div>
-    <p align="center">
-      A comprehensive banking solution featuring secure transaction processing, role-based access control, and real-time notifications.
-    </p>
-  </div>
-  
-  <!-- PROJECT 2 -->
-  <div style="width: 45%; min-width: 300px; margin: 10px;">
-    <img src="https://cdn.dribbble.com/users/2095589/screenshots/15485664/media/f5ac71396f70c33751d5dbe5895c2ead.png" style="width: 100%; border-radius: 15px; box-shadow: 0 8px 30px rgba(0,0,0,0.12);">
-    <h3 align="center">HR Portal System</h3>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    </div>
-    <p align="center">
-      Modern HR management platform with employee profiles, attendance tracking, and performance analytics dashboard.
-    </p>
-  </div>
-</div>
-
-<br>
-
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
