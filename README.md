@@ -1,5 +1,6 @@
+<!-- CUSTOM HEADER WITH PERSPECTIVE DESIGN -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,100:20BDFF&height=300&section=header&text=JITHIN&font=Monoton&fontSize=90&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Solution%20Architect&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20%20R&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Solution%20Architect&descAlignY=60&descSize=20"/>
 </div>
 
 <div align="center">
