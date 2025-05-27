@@ -1,6 +1,6 @@
 <!-- CUSTOM HEADER WITH PERSPECTIVE DESIGN -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Solution%20Architect&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20–%20React%20%7C%20REST%20API%20%7C%20FastAPI%20%7C%20PostgreSQL&descAlignY=60&descSize=20"/>
 </div>
 
 <div align="center">
@@ -13,7 +13,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-
 <br>
 
 ## 👨‍💻 About Me
@@ -21,18 +20,19 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>💡 Engineering Philosophy</h3>
       <p align="justify">
-        I transform complex business requirements into elegant, scalable solutions with a focus on:
+        Hey there 👋🏻 I’m <b>Jithin</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
       </p>
+      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
       <ul>
-        <li>🏗️ <b>Architectural Excellence</b> — Building systems that scale with business growth</li>
-        <li>🔍 <b>Performance Optimization</b> — Creating experiences with millisecond responsiveness</li>
-        <li>🧠 <b>Human-Centered Design</b> — Crafting interfaces that feel intuitive and natural</li>
+        <li>✨ Seamless RESTful APIs that just work</li>
+        <li>⚡ High-speed backends with Django & FastAPI</li>
+        <li>🧠 Database mastery with PostgreSQL, MySQL</li>
+        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
+        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
       </ul>
-      <p align="justify">
-        With a versatile skillset spanning Django's reliability and React's flexibility, I specialize in delivering full-stack applications where technical excellence meets exceptional user experience.
-      </p>
+      <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
+      <p>Let’s connect and create something impactful together! 🌐</p>
     </td>
     <td width="40%" align="center">
       <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
@@ -86,7 +86,6 @@
     </tr>
   </table>
   
-  <!-- GitHub Contribution Timeline -->
   <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithin-jz&theme=tokyonight" />
 </div>
 
@@ -101,7 +100,6 @@
 
 <br>
 
-<!-- Contribution Snake -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 </div>
@@ -113,7 +111,6 @@
   <p>Let's build something amazing together!</p>
 </div>
 
-<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </div>
