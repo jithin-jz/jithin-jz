@@ -106,11 +106,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
+  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
 </div>
 
 <div align="center">
