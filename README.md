@@ -1,6 +1,6 @@
 <!-- CUSTOM HEADER WITH PERSPECTIVE DESIGN -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Dev%20–%20React%20%7C%20REST%20API%20%7C%20FastAPI%20%7C%20PostgreSQL&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
 <div align="center">
