@@ -120,3 +120,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
 </div>
+
+<div align="center">
+<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Jithin </sub>
+</div>
