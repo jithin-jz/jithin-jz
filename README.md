@@ -92,14 +92,6 @@
 </div>
 
 <br>
-
-<div align="center" style="padding: 20px; margin: 30px 0; border-radius: 16px; background: linear-gradient(135deg, #f0f4ff 0%, #ffffff 100%); border: 1px solid #d0d7ff;">
-  <h2>💭 Development Philosophy</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
-</div>
-
-
-
 <br>
 
 <div align="center">
@@ -107,6 +99,12 @@
 </div>
 
 <br>
+
+<div align="center" style="padding: 20px; margin: 30px 0; border-radius: 16px; background: linear-gradient(135deg, #f0f4ff 0%, #ffffff 100%); border: 1px solid #d0d7ff;">
+  <h2>💭 Development Philosophy</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
+</div>
+
 
 <div align="center" style="margin: 30px 0;">
   <h3>Open to collaboration on innovative projects | Available for consulting</h3>
