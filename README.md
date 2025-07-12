@@ -95,10 +95,9 @@
 
 <div align="center" style="padding: 25px 0; background: linear-gradient(135deg, rgba(84,51,255,0.08) 0%, rgba(32,189,255,0.08) 100%); border-radius: 16px; margin: 25px 0; border: 1px solid rgba(84,51,255,0.15);">
   <h2>💭 Development Philosophy</h2>
-  <blockquote>
-    <p>"Software design is not just about tools and frameworks. It's about thinking deeply and crafting solutions that elegantly solve real problems."</p>
-  </blockquote>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
 </div>
+
 
 <br>
 
