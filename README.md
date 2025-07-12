@@ -93,10 +93,11 @@
 
 <br>
 
-<div align="center" style="padding: 25px 0; background: linear-gradient(135deg, rgba(84,51,255,0.08) 0%, rgba(32,189,255,0.08) 100%); border-radius: 16px; margin: 25px 0; border: 1px solid rgba(84,51,255,0.15);">
+<div align="center" style="padding: 20px; margin: 30px 0; border-radius: 16px; background: linear-gradient(135deg, #f0f4ff 0%, #ffffff 100%); border: 1px solid #d0d7ff;">
   <h2>💭 Development Philosophy</h2>
   <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
 </div>
+
 
 
 <br>
