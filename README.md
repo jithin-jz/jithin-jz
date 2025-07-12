@@ -105,18 +105,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
 </div>
 
-
-<div align="center" style="margin: 30px 0;">
-  <h3>Open to collaboration on innovative projects | Available for consulting</h3>
-  <p>Let's build something amazing together!</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
 </div>
 
 <div align="center">
