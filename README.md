@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  ⚡ FULL STACK DEVELOPER | REACT | FASTAPI ⚡
+   FULL STACK DEVELOPER | REACT | FASTAPI 
 </h3>
 
 
