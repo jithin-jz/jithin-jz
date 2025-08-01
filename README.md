@@ -3,11 +3,15 @@
   <img src="https://www.porsche.com.tr/img/modeller/taycan/gorsel-2424444.png" alt="Car Image" width="600px" />
 </div>
 
-<!-- NAME & TITLE -->
-<div align="center">
-  <h1><strong>JITHIN J Z</strong></h1>
-  <p><strong>FULL STACK DEVELOPER | REACT | FASTAPI</strong></p>
-</div>
+<h1 align="center">
+  <strong style="font-size: 60px;">𝐉𝐈𝐓𝐇𝐈𝐍 𝐉 𝐙</strong>
+</h1>
+
+<h3 align="center">
+  ⚡ FULL STACK DEVELOPER | REACT | FASTAPI ⚡
+</h3>
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
