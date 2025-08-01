@@ -1,11 +1,11 @@
 <!-- HEADER IMAGE -->
 <div align="center">
-  <img src="https://www.porsche.com.tr/img/modeller/taycan/gorsel-2424444.png" alt="Header Image" width="100%" />
+  <img src="https://www.porsche.com.tr/img/modeller/taycan/gorsel-2424444.png" alt="Car Image" width="600px" />
 </div>
 
 <!-- NAME & TITLE -->
 <div align="center">
-  <h1>JITHIN J Z</h1>
+  <h1><strong>JITHIN J Z</strong></h1>
   <p><strong>FULL STACK DEVELOPER | REACT | FASTAPI</strong></p>
 </div>
 
@@ -29,6 +29,7 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
 
 
 
