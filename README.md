@@ -120,10 +120,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
-</div>
-
 <!-- SEPARATOR -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
