@@ -1,15 +1,7 @@
-<!-- HEADER IMAGE -->
 <div align="center">
-  <img src="https://www.porsche.com.tr/img/modeller/taycan/gorsel-2424444.png" alt="Car Image" width="600px" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
-<h1 align="center">
-  <strong style="font-size: 60px;">𝐉𝐈𝐓𝐇𝐈𝐍 𝐉 𝐙</strong>
-</h1>
-
-<h3 align="center">
-   FULL STACK DEVELOPER | REACT | FASTAPI 
-</h3>
 
 
 
