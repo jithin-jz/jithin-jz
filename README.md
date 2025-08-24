@@ -67,37 +67,30 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55" /><br><b>Python</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55" /><br><b>Django</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" height="28" /><br><b>DRF</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br><b>FastAPI</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="55" /><br><b>Golang</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br><b>Node.js</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55" /><br><b>Express</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55" /><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br><b>MongoDB</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MySQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br><b>SQLite</b></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" /><br><b>Kubernetes</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="55" /><br><b>Nginx</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="55" /><br><b>GitHub Actions</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="28" /><br><b>JWT</b></td>
   </tr>
 </table>
 
 </div>
-
-
 
 <br>
 
