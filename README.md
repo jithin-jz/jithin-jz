@@ -75,15 +75,10 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" /><br><b>Kubernetes</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="55" /><br><b>Nginx</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="55" /><br><b>GitHub Actions</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
@@ -91,6 +86,7 @@
 </table>
 
 </div>
+
 
 <br>
 
