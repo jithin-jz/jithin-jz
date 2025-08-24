@@ -56,27 +56,42 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="65" /><br><b>React</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="65" /><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br><b>Tailwind CSS</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65" /><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="65" /><br><b>Django</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="65" /><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="65" /><br><b>Redux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br><b>Tailwind</b></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="65" /><br><b>Bootstrap</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="65" /><br><b>Material UI</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65" /><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="65" /><br><b>Django</b></td>
     <td align="center"><img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" height="40" /><br><b>DRF</b></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="65" /><br><b>FastAPI</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br><b>MongoDB</b></td>
     <td align="center"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="40" /><br><b>Supabase</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65" /><br><b>Docker</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br><b>Vercel</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br><b>GitHub Actions</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65" /><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="65" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="65" /><br><b>Figma</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="65" /><br><b>Postman</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" height="40" /><br><b>JWT</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prettier" width="65" /><br><b>Prettier</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="65" /><br><b>NPM</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=chartjs" width="65" /><br><b>Chart.js</b></td>
   </tr>
 </table>
 
 </div>
+
 
 <br>
 
