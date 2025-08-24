@@ -48,30 +48,34 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools I Work With  
 
 <div align="center">
-  <h3>Frontend Ecosystem</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React">
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  
- <h3>Backend Mastery</h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 
-  
-  <h3>Data & Storage</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  
-  <h3>DevOps & Cloud</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="65" /><br><b>React</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="65" /><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="65" /><br><b>Tailwind CSS</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="65" /><br><b>Python</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="65" /><br><b>Django</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" height="40" /><br><b>DRF</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="65" /><br><b>FastAPI</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="65" /><br><b>PostgreSQL</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="65" /><br><b>MongoDB</b></td>
+    <td align="center"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="40" /><br><b>Supabase</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="65" /><br><b>Docker</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="65" /><br><b>Vercel</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="65" /><br><b>GitHub Actions</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="65" /><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="65" /><br><b>Figma</b></td>
+  </tr>
+</table>
+
 </div>
 
 <br>
