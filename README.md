@@ -108,8 +108,6 @@
       </td>
     </tr>
   </table>
-  
-  <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithin-jz&theme=tokyonight" />
 </div>
 
 <br>
