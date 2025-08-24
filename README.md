@@ -82,7 +82,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="55" /><br><b>Cloudflare</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="55" /><br><b>Svelte</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55" /><br><b>Bash</b></td>
   </tr>
