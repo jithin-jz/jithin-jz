@@ -20,8 +20,6 @@
 <br>
 
 
-<br>
-
 ## 🛠️ Technologies & Tools I Work With  
 
 <div align="center">
