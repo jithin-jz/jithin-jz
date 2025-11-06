@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:jithinjzx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
@@ -25,7 +22,7 @@
   <tr>
     <td width="60%">
       <p align="justify">
-        Hey there 👋🏻 I’m <b>Jithin</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
+        Hey there 👋🏻 I'm <b>Jithin</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
       </p>
       <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
       <ul>
@@ -36,7 +33,7 @@
         <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
       </ul>
       <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
-      <p>Let’s connect and create something impactful together! 🌐</p>
+      <p>Let's connect and create something impactful together! 🌐</p>
     </td>
     <td width="40%" align="center">
       <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
@@ -90,7 +87,6 @@
 
 </div>
 
-
 <br>
 
 <!-- SEPARATOR -->
@@ -122,16 +118,37 @@
 
 <br>
 
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
+## 🧃Coffee Mode
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+  <p><em>I've been losing sleep, baby that's true,<br>
+  But every little sip reminds me of you.<br>
+  Dreams in my code, love in my cup,<br>
+  One taste of caffeine and I'm never givin' up.</em></p>
+  <br>
+  <!-- <p>if my code hits different, feel free to buy me a coffee — no cap, it keeps the builds coming 🔥</p> -->
+  <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
 </div>
+
+<br>
 
 <!-- SEPARATOR -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+</div>
+
+<br>
 
 <div align="center">
 <sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Jithin </sub>
