@@ -123,7 +123,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🧃Coffee Mode
+## 🧋 boba me
 
 <div align="center">
   <p><em>I've been losing sleep, baby that's true,<br>
