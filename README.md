@@ -128,8 +128,6 @@
 <div align="center">
   <p><em>I've been losing sleep, baby that's true,<br>
   But every little sip reminds me of you.<br>
-  Dreams in my code, love in my cup,<br>
-  One taste of caffeine and I'm never givin' up.</em></p>
   <br>
   <!-- <p>if my code hits different, feel free to buy me a coffee — no cap, it keeps the builds coming 🔥</p> -->
   <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
