@@ -128,13 +128,13 @@
 <div align="center">
   <p><em>I've been losing sleep, baby that's true,<br>
   But every little sip reminds me of you.<br>
+  <br>
   <!-- <p>if my code hits different, feel free to buy me a coffee — no cap, it keeps the builds coming 🔥</p> -->
   <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
   </a>
 </div>
 
-<br>
 
 <!-- SEPARATOR -->
 <div align="center">
