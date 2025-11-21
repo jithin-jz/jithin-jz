@@ -32,7 +32,7 @@
         <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
         <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
       </ul>
-      <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
+      <p><strong>🛠 Always learning. Always building. Always leveling up.</strong></p>
       <p>Let's connect and create something impactful together! 🌐</p>
     </td>
     <td width="40%" align="center">
@@ -45,7 +45,7 @@
 
 <br>
 
-## 🛠️ Technologies & Tools 
+## 🛠 Technologies & Tools 
 
 <div align="center">
 
@@ -94,47 +94,32 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 📊 Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-jz&layout=compact&langs_count=7&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
-</div>
-
-<br>
+## 🧋 boba me
 
 <!-- SEPARATOR -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🧋 boba me
-
-<div align="center">
-  <p><em>I've been losing sleep, baby that's true,<br>
-  But every little sip reminds me of you.<br>
-  <br>
-  <!-- <p>if my code hits different, feel free to buy me a coffee — no cap, it keeps the builds coming 🔥</p> -->
-  <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <p><em>I've been losing sleep, baby that's true,<br>
+      But every little sip reminds me of you.</em></p>
+      <br>
+      <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎵 Vibing To</h3>
+      <p>Coding soundtrack — my current playlist on repeat</p>
+      <a href="https://open.spotify.com/playlist/1XxvhlVKLC8iuSiCkUFPZM?si=036b5b14504f4915" target="_blank">
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- SEPARATOR -->
 <div align="center">
@@ -143,10 +128,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
-</div>
-
-<br>
-
-<div align="center">
-<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Jithin </sub>
 </div>
