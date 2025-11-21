@@ -89,43 +89,36 @@
 
 <br>
 
-<!-- SEPARATOR -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🧋 boba me
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <p><em>I've been losing sleep, baby that's true,<br>
-      But every little sip reminds me of you.</em></p>
-      <br>
-      <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎵 Vibing To</h3>
-      <p>Coding soundtrack — my current playlist on repeat</p>
-      <a href="https://open.spotify.com/playlist/1XxvhlVKLC8iuSiCkUFPZM?si=036b5b14504f4915" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- SEPARATOR -->
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <table width="100%">
+    <tr>
+      <td width="33.33%" align="center">
+        <h3>I kinda write</h3>
+        <p>
+          <em>I've been losing sleep, baby that's true,<br>
+          But every little sip reminds me of you.</em>
+        </p>
+        <br>
+        <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
+          <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+        </a>
+      </td>
+      <td width="33.33%" align="center">
+        <h3>Bitwave</h3>
+        <p>Not just background noise this is part of the build.</p>
+        <a href="https://open.spotify.com/playlist/1XxvhlVKLC8iuSiCkUFPZM?si=036b5b14504f4915" target="_blank">
+          <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
+        </a>
+      </td>
+      <td width="33.33%" align="center">
+        <h3>👀 Views</h3>
+        <p>What are you looking at?</p>
+        <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
