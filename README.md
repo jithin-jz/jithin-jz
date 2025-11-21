@@ -98,7 +98,6 @@
           <em>I've been losing sleep, baby that's true,<br>
           But every little sip reminds me of you.</em>
         </p>
-        <br>
         <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
           <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
         </a>
@@ -112,7 +111,8 @@
       </td>
       <td width="33.33%" align="center">
         <h3>👀 Views</h3>
-        <p>What are you looking at?</p>
+        <p>What are you lookin at?</p>
+        <br>
         <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
       </td>
     </tr>
