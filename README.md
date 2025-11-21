@@ -111,7 +111,7 @@
       </td>
       <td width="33.33%" align="center">
         <h3>👀 Views</h3>
-        <p>What are you lookin at?</p>
+        <p>What are you looking at?</p>
         <br>
         <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
       </td>
