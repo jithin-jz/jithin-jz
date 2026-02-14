@@ -26,14 +26,14 @@
       </p>
       <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
       <ul>
-        <li>✨ Seamless RESTful APIs that just work</li>
-        <li>⚡ High-speed backends with Django & FastAPI</li>
-        <li>🧠 Database mastery with PostgreSQL, MySQL</li>
-        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
-        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
+        <li> Seamless RESTful APIs that just work</li>
+        <li> High-speed backends with Django & FastAPI</li>
+        <li> Database mastery with PostgreSQL, MySQL</li>
+        <li> Pixel-perfect UIs using React + Tailwind CSS</li>
+        <li> Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
       </ul>
       <p><strong>🛠 Always learning. Always building. Always leveling up.</strong></p>
-      <p>Let's connect and create something impactful together! 🌐</p>
+      <p>Let's connect and create something impactful together! </p>
     </td>
     <td width="40%" align="center">
       <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
