@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/> -->
 
 <img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true"/>
 
