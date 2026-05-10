@@ -36,10 +36,13 @@
       <p>Let's connect and create something impactful together!</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
-      <br>
-      <em>Turning complex ideas into elegant code</em>
-    </td>
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampraTBwdzh0YjRvZW9sbXVzZWd1ZDh3a2s1aXRzeWpmNm1ldW4xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"
+    width="100%"
+    alt="Coding Animation"
+    style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.2);"
+  />
+</td>
   </tr>
 </table>
 
