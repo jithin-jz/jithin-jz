@@ -5,11 +5,7 @@
 
 [Portfolio](https://jithin.site) · [LinkedIn](https://www.linkedin.com/in/jithin-kr/) · [Email](mailto:jithinjzx@gmail.com) · [Instagram](https://www.instagram.com/jithin.jz/)
 
----
-
 </div>
-
-I am a Full Stack Developer specializing in building clean, fast, and scalable web applications. I bridge the gap between reliable backend logic and modern, interactive frontends to build software that performs flawlessly.
 
 ---
 
