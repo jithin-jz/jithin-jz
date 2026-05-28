@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=280&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
 <div align="center">
@@ -14,46 +14,25 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="justify">
-        Hey there! 👋🏻 I'm <b>Jithin</b>, a passionate Full Stack Developer focused on architecting clean, highly scalable, and performance-driven web applications. I bridge the gap between user experience and complex backend logic by leveraging modern tech stacks.
-      </p>
-      <h4>🚀 Engineering Focus:</h4>
-      <ul>
-        <li><b>Backend Mastery:</b> Architecting fast, asynchronous RESTful APIs using FastAPI & Django.</li>
-        <li><b>Frontend Crafting:</b> Building responsive, state-managed UIs with React, Redux, and Tailwind CSS.</li>
-        <li><b>Data Engineering:</b> Optimizing database schemas and queries using PostgreSQL, MySQL, and MongoDB.</li>
-        <li><b>DevOps & Cloud:</b> Streamlining infrastructure with Docker, AWS, and modern CI/CD pipelines.</li>
-      </ul>
-      <p><strong>🛠 Continuous iteration. Relentless building. Always leveling up.</strong></p>
-      <p>Let's collaborate and bring impactful digital solutions to life!</p>
-    </td>
-    <td width="40%" align="center">
-      <img 
-        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampraTBwdzh0YjRvZW9sbXVzZWd1ZDh3a2s1aXRzeWpmNm1ldW4xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"
-        width="100%"
-        alt="Coding Animation"
-        style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.3);"
-      />
-    </td>
-  </tr>
-</table>
+I am a Full Stack Developer specializing in building clean, fast, and scalable web applications. I bridge the gap between reliable backend logic and modern, interactive frontends to build software that performs flawlessly.
+
+*   **Frontend:** Crafting responsive, state-managed UIs using React, TypeScript, and Tailwind CSS.
+*   **Backend & APIs:** Engineering high-speed, asynchronous RESTful systems with FastAPI and Django.
+*   **Databases & DevOps:** Optimizing data layouts across PostgreSQL/NoSQL and automating workflows via Docker and AWS.
 
 ---
 
-## 🛠 Tech Stack & Ecosystem
+## 🛠 Tech Stack
 
 <div align="center">
 
-| Core Languages & Frontend | Backend & Databases | DevOps, Cloud & Tools |
+| Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,materialui,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql,sqlite" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman,figma,linux,bash" alt="Tools & DevOps" /> |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman" alt="Tools & DevOps" /> |
 
 </div>
 
