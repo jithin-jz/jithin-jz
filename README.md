@@ -14,7 +14,6 @@ Full Stack Developer • React • Python • AI
   </tr>
 </table>
 
----
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
