@@ -1,25 +1,6 @@
-<div align="center">
+# Jithin 👋
 
-**Full Stack Developer** • Python | FastAPI | React | AI Integrations
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jithin-kr/">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:jithinjzx@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://jithin.site">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/jithin.jz/">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
+Full Stack Developer • React • Python • AI
 ---
 
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
