@@ -12,11 +12,22 @@
 </div>
 
 <div align="center">
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/> -->
-
-<img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true"/>
-
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="top">
+        <img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&theme=github_dark&hide_border=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-jz&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+      <td valign="top">
+        <img src="https://github-profile-trophy.vercel.app/?username=jithin-jz&theme=githubdark&column=2&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
