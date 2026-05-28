@@ -22,80 +22,52 @@
   <tr>
     <td width="60%">
       <p align="justify">
-        Hey there 👋🏻 I'm <b>Jithin</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
+        Hey there! 👋🏻 I'm <b>Jithin</b>, a passionate Full Stack Developer focused on architecting clean, highly scalable, and performance-driven web applications. I bridge the gap between user experience and complex backend logic by leveraging modern tech stacks.
       </p>
-      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
+      <h4>🚀 Engineering Focus:</h4>
       <ul>
-        <li>Seamless RESTful APIs that just work</li>
-        <li>High-speed backends with Django & FastAPI</li>
-        <li>Database mastery with PostgreSQL, MySQL</li>
-        <li>Pixel-perfect UIs using React + Tailwind CSS</li>
-        <li>Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
+        <li><b>Backend Mastery:</b> Architecting fast, asynchronous RESTful APIs using FastAPI & Django.</li>
+        <li><b>Frontend Crafting:</b> Building responsive, state-managed UIs with React, Redux, and Tailwind CSS.</li>
+        <li><b>Data Engineering:</b> Optimizing database schemas and queries using PostgreSQL, MySQL, and MongoDB.</li>
+        <li><b>DevOps & Cloud:</b> Streamlining infrastructure with Docker, AWS, and modern CI/CD pipelines.</li>
       </ul>
-      <p><strong>🛠 Always learning. Always building. Always leveling up.</strong></p>
-      <p>Let's connect and create something impactful together!</p>
+      <p><strong>🛠 Continuous iteration. Relentless building. Always leveling up.</strong></p>
+      <p>Let's collaborate and bring impactful digital solutions to life!</p>
     </td>
     <td width="40%" align="center">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampraTBwdzh0YjRvZW9sbXVzZWd1ZDh3a2s1aXRzeWpmNm1ldW4xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"
-    width="100%"
-    alt="Coding Animation"
-    style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.2);"
-  />
-</td>
+      <img 
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExampraTBwdzh0YjRvZW9sbXVzZWd1ZDh3a2s1aXRzeWpmNm1ldW4xayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif"
+        width="100%"
+        alt="Coding Animation"
+        style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.3);"
+      />
+    </td>
   </tr>
 </table>
 
-<br>
+---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack & Ecosystem
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55" /><br><b>React</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" /><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55" /><br><b>TypeScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55" /><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55" /><br><b>Django</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br><b>FastAPI</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55" /><br><b>PostgreSQL</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MySQL</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br><b>SQLite</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="55" /><br><b>Svelte</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55" /><br><b>Bash</b></td>
-  </tr>
-</table>
+| Core Languages & Frontend | Backend & Databases | DevOps, Cloud & Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,bootstrap,materialui,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql,sqlite" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman,figma,linux,bash" alt="Tools & DevOps" /> |
 
 </div>
 
-<br>
+---
+
+## 📈 Git Analytics
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/> -->
+[![Profile Views](https://komarev.com/ghpvc/?username=jithin-jz&style=flat-square&color=7C7CF8&label=profile+views)](https://github.com/jithin-jz)
 
-<img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true" height="165"/>
 
 </div>
