@@ -1,4 +1,4 @@
-# Jithin 👋
+# Jithin 👋🏻
 
 Full Stack Developer • React • Python • AI
 ---
