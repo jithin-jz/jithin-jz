@@ -7,10 +7,6 @@
 
 </div>
 
----
-
-## 🛠 Tech Stack
-
 <div align="center">
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
@@ -18,8 +14,6 @@
 | <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,postman" alt="Tools & DevOps" /> |
 
 </div>
-
----
 
 <div align="center">
 
