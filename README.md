@@ -1,6 +1,5 @@
 <div align="center">
 
-# JITHIN J Z
 **Full Stack Developer** • Python | FastAPI | React | AI Integrations
 
 </div>
