@@ -9,15 +9,7 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
 I am a Full Stack Developer specializing in building clean, fast, and scalable web applications. I bridge the gap between reliable backend logic and modern, interactive frontends to build software that performs flawlessly.
-
-*   **Frontend:** Crafting responsive, state-managed UIs using React, TypeScript, and Tailwind CSS.
-*   **Backend & APIs:** Engineering high-speed, asynchronous RESTful systems with FastAPI and Django.
-*   **Databases & DevOps:** Optimizing data layouts across PostgreSQL/NoSQL and automating workflows via Docker and AWS.
 
 ---
 
@@ -33,12 +25,10 @@ I am a Full Stack Developer specializing in building clean, fast, and scalable w
 
 ---
 
-## 📈 Git Analytics
-
 <div align="center">
 
-| Profile Views | Contribution Streak |
-| :---: | :---: |
-| ![Views](https://komarev.com/ghpvc/?username=jithin-jz&style=flat-square&color=21262d&labelColor=161b22&label=) | <img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true" height="150" /> |
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/> -->
+
+<img src="https://streak-stats.demolab.com?user=jithin-jz&theme=github-dark&hide_border=true"/>
 
 </div>
