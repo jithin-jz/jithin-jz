@@ -1,6 +1,7 @@
 # Jithin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px" alt="Waving Hand">
 
 Full Stack Developer • React • Python • AI
+
 ---
 
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
@@ -20,4 +21,12 @@ Full Stack Developer • React • Python • AI
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,gcp" alt="Tools & DevOps" /> |
 
-</div>
+---
+
+---
+
+## 🎮 Contribution Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jithin-jz/jithin-jz/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation" />
+</p>
