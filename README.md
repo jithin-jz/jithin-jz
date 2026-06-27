@@ -2,6 +2,8 @@
 
 Full Stack Developer • React • Python • AI
 
+---
+
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
@@ -13,14 +15,16 @@ Full Stack Developer • React • Python • AI
   </tr>
 </table>
 
+---
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,gcp" alt="Tools & DevOps" /> |
 
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jithin-jz/jithin-jz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jithin-jz/jithin-jz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jithin-jz/jithin-jz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jithin-jz/jithin-jz/output/pacman-contrivbution-graph.svg">
 </picture>
