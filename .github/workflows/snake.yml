@@ -18,12 +18,22 @@ jobs:
         run: npm install -g pacman-contribution-graph
 
       - name: Generate light theme SVG
-        run: mkdir -p dist && pacman-contribution-graph --platform github --username jithin-jz --gameTheme github --output dist/pacman-contribution-graph.svg
+        run: |
+          mkdir -p dist
+          pacman-contribution-graph --game pacman --platform github --username jithin-jz --gameTheme github --output dist/pacman-contribution-graph.svg
 
       - name: Generate dark theme SVG
-        run: pacman-contribution-graph --platform github --username jithin-jz --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+        run: |
+          pacman-contribution-graph --game pacman --platform github --username jithin-jz --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
 
-      - uses: crazy-max/ghaction-github-pages@v5
+      - name: Verify both SVGs exist
+        run: |
+          ls -la dist/
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
