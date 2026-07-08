@@ -9,9 +9,20 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Set up Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: jithin-jz
+          node-version: 20
+
+      - name: Install pacman-contribution-graph CLI
+        run: npm install -g pacman-contribution-graph
+
+      - name: Generate light theme SVG
+        run: mkdir -p dist && pacman-contribution-graph --platform github --username jithin-jz --gameTheme github --output dist/pacman-contribution-graph.svg
+
+      - name: Generate dark theme SVG
+        run: pacman-contribution-graph --platform github --username jithin-jz --gameTheme github-dark --output dist/pacman-contribution-graph-dark.svg
+
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
