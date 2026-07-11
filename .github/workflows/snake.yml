@@ -13,11 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Generate contribution graph SVGs
+      - name: Generate light-theme SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: jithin-jz
           games: 'pacman'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate dark-theme SVG via CLI
+        run: |
+          npm install -g pacman-contribution-graph
+          pacman-contribution-graph \
+            --game pacman \
+            --platform github \
+            --username jithin-jz \
+            --gameTheme github-dark \
+            --output dist/pacman-contribution-graph-dark.svg
 
       - name: Verify both SVGs exist
         run: |
