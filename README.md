@@ -2,6 +2,8 @@
 
 Full Stack Developer • React • Python • AI
 
+___
+
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
