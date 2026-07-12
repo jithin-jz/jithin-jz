@@ -1,7 +1,7 @@
 # Jithin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px" alt="Waving Hand">
 
 Full Stack Developer • React • Python • AI
-#
+
 <table border="0" cellpadding="0" cellspacing="5" width="100%">
   <tr>
     <td align="center" width="50%">
