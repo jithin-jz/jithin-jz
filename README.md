@@ -15,5 +15,5 @@
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,gcp" alt="Tools & DevOps" /> |
+| <img src="https://skillicons.dev/icons?i=js,react,redux,tailwind,html,css" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mongodb,mysql" alt="Backend Stack" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,cloudflare,vercel" alt="Tools & DevOps" /> |
 
